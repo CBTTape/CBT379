@@ -1,0 +1,15 @@
+2023-04-02 23:53:48.597304 - Initialized conversion of CBT379
+2023-04-02 23:53:48.696796 - Received CBT.V504.FILE379.PDS from FILE379.XMI 
+2023-04-02 23:53:48.699216 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE379.PDS, moved to PDS/$$$#DATE
+2023-04-02 23:53:48.700339 - Found $$DOC.txt (text/plain) in CBT.V504.FILE379.PDS, moved to PDS/$$DOC
+2023-04-02 23:53:48.701321 - Found @FILE379.txt (text/plain) in CBT.V504.FILE379.PDS, moved to PDS/@FILE379
+2023-04-02 23:53:48.702447 - Found CBTJCL.txt (text/plain) in CBT.V504.FILE379.PDS, moved to PDS/CBTJCL
+2023-04-02 23:53:48.703437 - Found EXODUS.txt (text/plain) in CBT.V504.FILE379.PDS, moved to PDS/EXODUS
+2023-04-02 23:53:48.704562 - Found GENESIS.txt (text/plain) in CBT.V504.FILE379.PDS, moved to PDS/GENESIS
+2023-04-02 23:53:48.705748 - Found NSP011.txt (text/plain) in CBT.V504.FILE379.PDS, moved to PDS/NSP011
+2023-04-02 23:53:48.706637 - Found NSP012.txt (text/plain) in CBT.V504.FILE379.PDS, moved to PDS/NSP012
+2023-04-02 23:53:48.707620 - Found NSP013.txt (text/plain) in CBT.V504.FILE379.PDS, moved to PDS/NSP013
+2023-04-02 23:53:48.708574 - Found NSP014.txt (text/plain) in CBT.V504.FILE379.PDS, moved to PDS/NSP014
+2023-04-02 23:53:48.709515 - Found NSP015.txt (text/plain) in CBT.V504.FILE379.PDS, moved to PDS/NSP015
+2023-04-02 23:53:48.710444 - Found NSP016.txt (text/plain) in CBT.V504.FILE379.PDS, moved to PDS/NSP016
+2023-04-02 23:53:48.711395 - Found SAMPJCL.jcl (text/plain) in CBT.V504.FILE379.PDS, moved to PDS/SAMPJCL
